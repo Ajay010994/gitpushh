@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Myconncet">
+  <test thread-count="5" name="IndestoSignin">
+    <classes>
+      <class name="com.Test.Index_Tosignin_Page"/>
+    </classes>
+  </test> <!-- IndestoSignin -->
+</suite> <!-- Myconncet -->
